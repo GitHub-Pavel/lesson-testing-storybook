@@ -1,0 +1,1 @@
+export type ComponentWithClassName<T = object> = {className?: string} & T

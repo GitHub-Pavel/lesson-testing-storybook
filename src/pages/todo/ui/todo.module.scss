@@ -1,0 +1,10 @@
+.layout {
+  padding-top: 100px;
+}
+
+.layout,.grid {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
